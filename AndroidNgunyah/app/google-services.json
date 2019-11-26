@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "209595162039",
+    "firebase_url": "https://androidngunyah.firebaseio.com",
+    "project_id": "androidngunyah",
+    "storage_bucket": "androidngunyah.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:209595162039:android:017317b0e1c1b217",
+        "android_client_info": {
+          "package_name": "com.androidtan.favoperdana.androidngunyah"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "209595162039-g3latu4cd9966feidcc0mofjkthtbtbk.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.androidtan.favoperdana.androidngunyah",
+            "certificate_hash": "bf7fbc21bed1f209457862afc552bfc8ede9f868"
+          }
+        },
+        {
+          "client_id": "209595162039-fikcs4bdm9aos6ua04qv2sq4sn9oi52e.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAA6n-eRU0tcVl9alegj5ShwLC7TfraIDU"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "209595162039-fikcs4bdm9aos6ua04qv2sq4sn9oi52e.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
